@@ -1,4 +1,4 @@
-## MachineLearning algorithm implementation in python without scikit-lear 
+## Machine Learning algorithm implementation in python without scikit-learn 
 #### 1. Linear Regression:
 > Program that implements a (batch) linear regression using the gradient descent method in Python 3.
 
