@@ -4,7 +4,7 @@
 ##           2. output : File to write Gaussian params for each feature and missclassification error 
 ## Output: Writes Gaussian params for each feature and data missclassification error in tsv file
 ## Limitation: Input features must be numerical, no preprocessing of input feature 
-## owner: Arnab Das, Israt Nowshin, Saiyudh Mannan
+## owner: Arnab Das
 ## date: 18/12/2019
 #######################################################
 
