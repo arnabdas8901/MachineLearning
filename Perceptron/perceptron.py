@@ -5,7 +5,7 @@
 ##			 3. maxIteration : Maximum iteration number as termination criterion
 ## Output: Writes error rate per 100 iteration in tsv file
 ## Aspect: write output for constant and annealing learning rate
-## owner: Arnab Das, Israt Nowshin, Saiyudh Mannan
+## owner: Arnab Das
 ## date: 27/11/2019
 ####################################################### 
 
