@@ -5,7 +5,7 @@
 ## Output: Writes missclassification error [2-10]NN and IB2 casebase for 4NN in tsv file
 ## Limitation: i)Input features must be numerical, no preprocessing of input feature
 ##             ii) A typical weight based labelling used for estimating label, not generic  
-## owner: Arnab Das, Israt Nowshin, Saiyudh Mannan
+## owner: Arnab Das
 ## date: 05/01/2019
 #######################################################
 
