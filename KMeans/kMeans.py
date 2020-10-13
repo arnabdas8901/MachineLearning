@@ -4,7 +4,7 @@
 ##           2. output : Files towrite  prototype and SSE
 ## Output: Writes prototype/ cluster centre co-ordinates and SSE in tsv files
 ## Limitation: i)Input features must be numerical, no preprocessing of input feature
-## owner: Arnab Das, Israt Nowshin, Saiyudh Mannan
+## owner: Arnab Das
 ## date: 05/01/2019
 #######################################################
 
