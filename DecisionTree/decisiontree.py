@@ -4,7 +4,7 @@
 ##           2. output : file to write output data
 ## Output: Writes decision tree in xml file
 ## Limitation: can't handle missing attribute
-## owner: Arnab Das, Israt Nowshin, Saiyudh Mannan
+## owner: Arnab Das
 ## date: 16/11/2019
 ####################################################### 
 
