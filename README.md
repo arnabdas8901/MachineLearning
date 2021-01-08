@@ -18,7 +18,7 @@ rule using a multinomial estimation for the classes and a gaussian estimation fo
 attributes.
 
 #### 5. KNN:
-> Program that implements a 2-class kNN classier with an IB2 created case base.
+> Program that implements a 2-class kNN classifier with case base created by IB2 algorithm.
 The assignment for the point is then determined by the sum of the weights per class, whereas the maximal sum is the
 "winner".
 
