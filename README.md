@@ -26,3 +26,7 @@ The assignment for the point is then determined by the sum of the weights per cl
 > program that implements the k-Means clustering. The
 optimization criteria can be seen as a kind of Sum of Squared Errors.The goal is to
 minimize J, which basically minimizes the sum of intra-cluster distances.
+
+
+##### **__Citetion:__**
+[![DOI](https://zenodo.org/badge/333050504.svg)](https://zenodo.org/badge/latestdoi/333050504)
