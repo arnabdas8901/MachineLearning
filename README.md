@@ -1,4 +1,10 @@
 ## Machine Learning algorithm implementation in python without scikit-learn 
+This repository contains implementation for basic Machine Learning algorithms in Python from scratch. People normally use different python libraries(e.g scikit-learn) for ML related tasks. But this repository helps to understand the algorithm and the concepts from scratch.
+
+### **__Table of contents;__**
+
+---
+
 #### 1. Linear Regression:
 > Program that implements a (batch) linear regression using the gradient descent method in Python 3.
 
@@ -27,6 +33,15 @@ The assignment for the point is then determined by the sum of the weights per cl
 optimization criteria can be seen as a kind of Sum of Squared Errors.The goal is to
 minimize J, which basically minimizes the sum of intra-cluster distances.
 
+---
 
-##### **__Citetion:__**
+
+#### Citation:
+
+>If this repository helps you or you use some of its code, please refer the following archive as citation in your codes/publications.
+
 [![DOI](https://zenodo.org/badge/333050504.svg)](https://zenodo.org/badge/latestdoi/333050504)
+
+#### Contact:
+For any issues, clarification, bug or improvement suggestion, please send an email to **arnabdas8901@gmail.com**. I will reach back as soon as possible.
+
